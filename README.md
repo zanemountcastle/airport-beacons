@@ -20,4 +20,3 @@ The benefit to the beacon owner is that the airport can make more money by adver
 ## What other elements are involved in the system.
 Other elements that may be involved are the websites that are being broadcasted. It is important that the airlines are keeping the airline and flight status information up to date so that if a beacon is linking the passenger to the information, they will be given the right information.
 
-## Implement at least one beacon using nodejs or Arduino. Implement a beacon-client using Electron, iOS, or Android. Concentrate on the design of the system, the beacon implementation is less important, particularly if you're using standard ibeacons. 
