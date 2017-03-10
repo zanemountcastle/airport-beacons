@@ -2,12 +2,12 @@
   "name": "eddystone-demo",
   "private": true,
   "version": "1.0.0",
-  "description": "Eddystone beacon demo",
+  "description": "Eddystone airport beacons",
   "main": "scan.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Don Coleman",
+  "author": "Zane Mountcastle & Megan Moore",
   "license": "Apache-2.0",
   "dependencies": {
     "eddystone-beacon": "^1.0.7",
